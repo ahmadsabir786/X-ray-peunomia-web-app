@@ -1,4 +1,4 @@
-g# X-ray Pneumonia Classification Web App with TensorFlow and Streamlit
+# X-ray Pneumonia Classification Web App with TensorFlow and Streamlit
 
 ![Thumbnail](wr.png)
 
